@@ -1,4 +1,4 @@
-public class EJ4{
+public class Ejercicio3{
     public static void main(String[]args){
         System.out.println("LUNES MARTES MIERCOLES JUEVES VIERNES");
         Systen.out.println("-----------------------------------------");
