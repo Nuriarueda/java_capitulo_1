@@ -1,7 +1,5 @@
-import java.util.Scanner;
 public class Ejercicio4{
     public static void main(String[]args){
-        Scanner sc = new Scanner (System.in);
         System.out.println("lunes\tmartes\tmierc.\tjueves\tviernes");
         System.out.println("======\t======\t======\t======\t======");
         System.out.println("PROG\tS.INFO\tE.DES\tPROG\tFOL");
@@ -12,4 +10,3 @@ public class Ejercicio4{
         System.out.println("B.DATOS\tPROG\tB.DATOS\tB.DATOS\tS.INFO");
         System.out.println("B.DATOS\tE.DES\tB.DATOS\tB.DATOS\tS.INFO");
     }
-} 

@@ -1,7 +1,5 @@
-import java.util.Scanner;
 public class Ejercicio5{
-    public static void main(String[]args){
-        Scanner sc = new Scanner (System.in);
+    public static void main(String[] args){
         String rojo = "\033[31m"; 
         String verde = "\033[32m"; 
         String naranja = "\033[33m"; 
@@ -19,5 +17,4 @@ public class Ejercicio5{
         System.out.println(rojo+"B.DATOS"+verde+"\tPROG"+rojo+"\tB.DATOS"+rojo+"\tB.DATOS"+morado+"\tS.INFO");
         System.out.println(rojo+"B.DATOS"+azul+"\tE.DES"+rojo+"\tB.DATOS"+rojo+"\tB.DATOS"+morado+"\tS.INFO");
     }
-} 
-
+}

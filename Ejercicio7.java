@@ -1,7 +1,5 @@
-import java.util.Scanner;
 public class Ejercicio7{
     public static void main(String[]args){
-        Scanner sc = new Scanner (System.in);
         System.out.println("    *");
         System.out.println("   * *");
         System.out.println("  *   *");
@@ -9,3 +7,4 @@ public class Ejercicio7{
         System.out.println("*********");
     }
 } 
+
